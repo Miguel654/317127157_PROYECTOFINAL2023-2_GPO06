@@ -1,0 +1,88 @@
+newmtl LAvaManos2:initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl LAvaManos2:wire_027177088
+illum 4
+Kd 0.11 0.69 0.35
+Ka 0.11 0.69 0.35
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.35 0.35 0.35
+Ns 32.00
+newmtl compu1:COMP1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd appliances.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl cortina1:initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl cortina2:initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl cosmo:mesh0228mat
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd t0228_0.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl cosmo1:mesh0228mat
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd t0228_0.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl inodoro1:initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl inodoro1:initialShadingGroup2
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pecera:AquaGlass_mat
+illum 4
+Kd 0.64 0.64 0.64
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni -1.00
+Ks 0.50 0.50 0.50
+Ns -3.92
+newmtl pecera:AquaInside_mat
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd AquaInside.png
+Ni -1.00
+Ks 0.50 0.50 0.50
+Ns -3.92

@@ -1,0 +1,102 @@
+newmtl crocker:crocker_brow
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 0.00 0.00 0.00
+map_Kd crocker_brow.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 94.12
+newmtl crocker:crocker_face
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd crocker_face.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 94.12
+newmtl crocker:crocker_forehead
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd crocker_forehead.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 94.12
+newmtl crocker:crocker_g
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd crocker_g.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 94.12
+newmtl crocker:crocker_glasses
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 0.00 0.00 0.00
+map_Kd crocker_glasses.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 94.12
+newmtl crocker:crocker_iris
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 0.00 0.00 0.00
+map_Kd crocker_iris.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 94.12
+newmtl crocker:crocker_mouth
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 0.00 0.00 0.00
+map_Kd crocker_mouth_1.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 94.12
+newmtl crocker:crocker_nose
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd crocker_nose.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 94.12
+newmtl crocker:crocker_shirt
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd crocker_shirt.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 94.12
+newmtl lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd crocker_glasses.png
+Ni 1.00
+newmtl lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd crocker_mouth_2.png
+Ni 1.00
+newmtl lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd EffFrogTunnelCycle1.png
+Ni 1.00
